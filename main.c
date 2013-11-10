@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//
 // calcula o numero de paginas por bloco
 int calcular(int paglivro){
 	int i;
